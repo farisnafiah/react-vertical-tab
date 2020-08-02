@@ -1,7 +1,7 @@
 # react-vertical-tab
 Created with CodeSandbox
 
-This is a self-practice on creating a vertical tab for create-react-app. Component was created without the dependency of react-transition-group. This component should contribute to my personal website (under development).
+This is a self-practice on creating a vertical tab for create-react-app. Component is created without the dependency of react-transition-group. The <span/> tag was animated to follow the "active" button using react hooks. This component should contribute to the personal website (under development).
 
 Example of use cases:
   * Work experience/academic qualification in a portfolio website.
