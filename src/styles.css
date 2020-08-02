@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+
+body {
+  background-color: #0a192f;
+  color: #e6f1ff;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
