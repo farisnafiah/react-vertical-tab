@@ -12,6 +12,8 @@ Design is inspired by [brittanychiang.com](https://brittanychiang.com/) in the C
 ## Demo
 You can find the demo in codesandbox here: [codesandbox](https://codesandbox.io/s/summer-thunder-01k9y)
 
+![](react-vertical-tab-demo.gif)
+
 ## Installation
 ```
 $ git clone https://github.com/farisnafiah/react-vertical-tab
